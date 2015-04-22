@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'zerp/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "zerp"
+  spec.name          = "zerp-test"
   spec.version       = Zerp::VERSION
   spec.authors       = ["Anshul Verma"]
   spec.email         = ["anshul.verma86@gmail.com"]
